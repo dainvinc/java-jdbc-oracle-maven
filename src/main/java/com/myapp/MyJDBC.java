@@ -15,7 +15,7 @@ public class MyJDBC {
 	private static final String DRIVER_NAME = "oracle.jdbc.driver.OracleDriver";
 	private static final String DB_NAME = "jdbc:oracle:thin:@localhost:1521:orcl";
 	private static final String USERNAME = "c##vishal";
-	private static final String PASSWORD = "vishal";
+	private static final String PASSWORD = "*******";
 	
 	private static Connection connect;
 	private static Statement statement;
